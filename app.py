@@ -3,7 +3,7 @@ import pandas as pd
 import openpyxl
 import torch
 import pathlib
-impport pil
+import pil
 import salesforce-lavis  
 from io import BytesIO
 from pathlib import Path
