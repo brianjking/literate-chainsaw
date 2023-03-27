@@ -1,0 +1,5 @@
+streamlit
+torch
+pandas
+PIL
+salesforce-lavis
